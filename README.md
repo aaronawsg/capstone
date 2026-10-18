@@ -11,7 +11,7 @@ Assess the relationship between Literacy Rate (%) and Education Expenditure as %
 
 **2.Healthcare Investment and Outcomes**
 
-Analyze how Healthcare Expenditure per Capita and Doctor-to-Patient Ratio relate to Life Expectancy and GDP per Capita to identify whether greater healthcare spending and access translate into better development outcomes.
+Analyze how Healthcare Expenditure per Capita and Doctor-to-Patient Ratio relate to GDP per Capita to identify whether greater healthcare spending and access are associated with stronger economic performance.
 
 **3.Labor Market Participation and Economic Output**
 
@@ -19,7 +19,7 @@ Investigate the association between Labor Force Participation Rate (%) and Unemp
 
 **4.Renewable Energy Adoption, Growth and Sustainability**
 
-Examine how Renewable Energy Share (%) relates to GDP per Capita and CO2 Emissions to establish whether sustainable energy adoption supports economic performance while reducing environmental impact.
+Examine how Renewable Energy Share (%) relates to GDP per Capita to establish whether higher renewable energy adoption is associated with stronger or weaker economic performance.
 
 **5.Development Level and Quality of Life Patterns**
 
