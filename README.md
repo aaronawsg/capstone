@@ -1,4 +1,4 @@
-# capstone
+# Capstone
 
 Research Objectives
 1.Assess the Role of Education in Economic Growth
