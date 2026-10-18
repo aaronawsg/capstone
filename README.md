@@ -1,3 +1,6 @@
+* **Prepared By: Aaron Aw**
+* **Dataset Used: Global Economic Indicators**
+
 # Capstone - Global Economic Indicators Analytics
 
 
