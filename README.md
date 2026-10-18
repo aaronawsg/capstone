@@ -3,7 +3,7 @@
 ## Research Objectives
 1.Assess the Role of Education in Economic Growth
 Objective: Evaluate how literacy rate (%) and education expenditure as % of GDP influence GDP per capita across countries.
-
+ 
 2. Measure the Impact of Healthcare on Development Outcomes
 Objective: Analyze how healthcare expenditure per capita and doctor-to-patient ratio correlate with life expectancy and GDP per capita.
 
