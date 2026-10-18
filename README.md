@@ -5,13 +5,13 @@
 How can education, healthcare, labor participation, and renewable energy be leveraged to increase GDP per capita, while understanding the global economic, social, and environmental patterns that drive differences in development across countries?
 
 ## Research Objectives
-1.Assess the Role of Education in Economic Growth
+**1.Assess the Role of Education in Economic Growth**
 Objective: Evaluate how literacy rate (%) and education expenditure as % of GDP influence GDP per capita across countries.
  
-2. Measure the Impact of Healthcare on Development Outcomes
+**2. Measure the Impact of Healthcare on Development Outcomes**
 Objective: Analyze how healthcare expenditure per capita and doctor-to-patient ratio correlate with life expectancy and GDP per capita.
 
-4. Examine Labor Force Participation and Productivity
+**3. Examine Labor Force Participation and Productivity**
 Objective: Investigate how labor force participation rate (%) and unemployment rate (%) affect GDP per capita across different economies.
 
 5. Evaluate Renewable Energy Adoption and Sustainable Growth
