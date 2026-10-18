@@ -1,4 +1,4 @@
-# Capstone - Economics Analysis
+# Capstone - Global Economic Indicators Analytics
 
 # Research Objectives
 1.Assess the Role of Education in Economic Growth
