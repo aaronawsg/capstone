@@ -1,6 +1,6 @@
-# Capstone
+# Capstone - Economics Analysis
 
-Research Objectives
+# Research Objectives
 1.Assess the Role of Education in Economic Growth
 Objective: Evaluate how literacy rate (%) and education expenditure as % of GDP influence GDP per capita across countries.
 
@@ -18,7 +18,7 @@ Objective: Use descriptive analytics to identify key global development patterns
 
 
 
-Data Quality & Cleaning Notes
+# Data Quality & Cleaning Notes
 
 
 
