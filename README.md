@@ -23,8 +23,7 @@ Examine how Renewable Energy Share (%) relates to GDP per Capita to establish wh
 
 **5.Development Level and Quality of Life Patterns**
 
-Examine how HDI and Poverty Rate (%) vary alongside GDP per Capita across countries to identify which countries are high-performing and which are lagging in development.
-
+Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries to identify which countries are high-performing and which are lagging in development.
 
 
 
