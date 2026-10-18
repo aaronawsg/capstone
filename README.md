@@ -5,25 +5,26 @@
 How can education, healthcare, labor participation, and renewable energy be leveraged to increase GDP per capita, while understanding the global economic, social, and environmental patterns that drive differences in development across countries?
 
 ## Research Objectives
-**1.Assess the Role of Education in Economic Growth**
+1.Education and Literacy Impact on GDP per Capita
 
-Objective: Evaluate how literacy rate (%) and education expenditure as % of GDP influence GDP per capita across countries.
- 
-**2. Measure the Impact of Healthcare on Development Outcomes**
+Assess the relationship between Literacy Rate (%) and Education Expenditure as % of GDP against GDP per Capita to determine whether higher education investment and attainment are associated with stronger economic performance.
 
-Objective: Analyze how healthcare expenditure per capita and doctor-to-patient ratio correlate with life expectancy and GDP per capita.
+2.Healthcare Investment and Outcomes
 
-**3. Examine Labor Force Participation and Productivity**
+Analyze how Healthcare Expenditure per Capita and Doctor-to-Patient Ratio relate to Life Expectancy and GDP per Capita to identify whether greater healthcare spending and access translate into better development outcomes.
 
-Objective: Investigate how labor force participation rate (%) and unemployment rate (%) affect GDP per capita across different economies.
+3. Labor Market Participation and Economic Output
 
-**4. Evaluate Renewable Energy Adoption and Sustainable Growth**
+Investigate the association between Labor Force Participation Rate (%) and Unemployment Rate (%) and GDP per Capita to determine how workforce engagement relates to income levels across countries.
 
-Objective: Determine how renewable energy share (%) in total energy consumption relates to GDP per capita and CO₂ emissions.
+4.Renewable Energy Adoption, Growth and Sustainability
 
-**5. Identify key global development patterns that explains differences in GDP per capita**
+Examine how Renewable Energy Share (%) relates to GDP per Capita and CO2 Emissions to establish whether sustainable energy adoption supports economic performance while reducing environmental impact.
 
-Objective: Use descriptive analytics to identify key global development patterns that explain differences in GDP per capita across countries.
+5.Development Level and Quality of Life Patterns
+
+Examine how HDI and Poverty Rate (%) vary alongside GDP per Capita across countries to identify which countries are high-performing and which are lagging in development.
+
 
 
 
