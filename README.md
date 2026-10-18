@@ -26,7 +26,7 @@ Examine how Renewable Energy Share (%) relates to GDP per Capita to establish wh
 Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries to identify which countries are high-performing and which are lagging in development.
 
 
---
+
 --
 --
 
