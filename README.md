@@ -5,23 +5,23 @@
 How can education, healthcare, labor participation, and renewable energy be leveraged to increase GDP per capita, while understanding the global economic, social, and environmental patterns that drive differences in development across countries?
 
 ## Research Objectives
-**1.Education and Literacy Impact on GDP per Capita**
+**1. Education and Literacy Impact on GDP per Capita**
 
 Assess the relationship between Literacy Rate (%) and Education Expenditure as % of GDP against GDP per Capita to determine whether higher education investment and attainment are associated with stronger economic performance.
 
-**2.Healthcare Investment and Outcomes**
+**2. Healthcare Investment and Outcomes**
 
 Analyze how Healthcare Expenditure per Capita and Doctor-to-Patient Ratio relate to GDP per Capita to identify whether greater healthcare spending and access are associated with stronger economic performance.
 
-**3.Labor Market Participation and Economic Output**
+**3. Labor Market Participation and Economic Output**
 
 Investigate the association between Labor Force Participation Rate (%) and Unemployment Rate (%) and GDP per Capita to determine how workforce engagement relates to income levels across countries.
 
-**4.Renewable Energy Adoption, Growth and Sustainability**
+**4. Renewable Energy Adoption, Growth and Sustainability**
 
 Examine how Renewable Energy Share (%) relates to GDP per Capita to establish whether higher renewable energy adoption is associated with stronger or weaker economic performance.
 
-**5.Development Level and Quality of Life Patterns**
+**5. Development Level and Quality of Life Patterns**
 
 Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries to identify which countries are high-performing and which are lagging in development.
 
