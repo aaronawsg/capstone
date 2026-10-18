@@ -17,11 +17,11 @@ Objective: Analyze how healthcare expenditure per capita and doctor-to-patient r
 
 Objective: Investigate how labor force participation rate (%) and unemployment rate (%) affect GDP per capita across different economies.
 
-5. Evaluate Renewable Energy Adoption and Sustainable Growth
+**4. Evaluate Renewable Energy Adoption and Sustainable Growth**
 
 Objective: Determine how renewable energy share (%) in total energy consumption relates to GDP per capita and CO₂ emissions.
 
-6. Identify key global development patterns that explains differences in GDP per capita
+**5. Identify key global development patterns that explains differences in GDP per capita**
 
 Objective: Use descriptive analytics to identify key global development patterns that explain differences in GDP per capita across countries.
 
