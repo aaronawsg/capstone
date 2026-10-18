@@ -1,5 +1,9 @@
 # Capstone - Global Economic Indicators Analytics
 
+
+## Problem statement
+How can education, healthcare, labor participation, and renewable energy be leveraged to increase GDP per capita, while understanding the global economic, social, and environmental patterns that drive differences in development across countries?
+
 ## Research Objectives
 1.Assess the Role of Education in Economic Growth
 Objective: Evaluate how literacy rate (%) and education expenditure as % of GDP influence GDP per capita across countries.
