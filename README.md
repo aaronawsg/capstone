@@ -43,19 +43,6 @@ Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries t
 
 
 
-# Electronics Retail Sales Dataset 📊
-
-<p align="center">
- <img width="266" height="205" alt="image_1e16842e_edited" src="https://github.com/user-attachments/assets/699034ae-2410-4f06-ae9d-66dd5003594f" />
-</p>
-
-<h1 align="center">Electronics Retail Sales Dataset</h1>
-
-This repository contains a transactional dataset capturing retail sales performance for consumer electronics products throughout the first half of **2026**. The data includes granular details on order parameters, product categories, geographic regions, salesperson mapping, and promotional discounts.
-
-It serves as an excellent resource for exploratory data analysis (EDA), sales performance forecasting, regional market analysis, and missing data imputation practice.
-
-<img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
 
 ## 📋 Dataset Overview
 
