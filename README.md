@@ -1,3 +1,6 @@
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/0a6dc150-83dd-4f55-bf09-21e6de8307b9" />
+
+
 * **Prepared By: Aaron Aw**
 * **Dataset Used: Global Economic Indicators**
 
