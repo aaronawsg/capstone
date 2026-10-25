@@ -242,7 +242,6 @@ print(f"Healthcare spend vs GDP per Capita: r = {r:.2f}")
 - **Association, not causation:** the analysis shows correlations only, and many indicators move together.
 - **Within-country change is small:** GDP per Capita barely moves over 2000–2023 in any country, which leaves little time variation to explain.
 - **Model design:** with `Country` as a feature, the high R² mostly reflects country differences. A random split also lets the same country-years' neighbours appear in train and test.
-- **Data realism:** some values look stylised rather than observed (for example USA population of 330 million and China's 1,447 million in 2000). Check the source before drawing real-world conclusions.
 - **Capping:** literacy and gender equality values above their maximum were capped rather than investigated at source.
 
 ---
