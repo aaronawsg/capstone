@@ -241,7 +241,7 @@ print(f"Healthcare spend vs GDP per Capita: r = {r:.2f}")
 - **Small sample:** only six countries and 144 rows, so the pooled correlations are driven by a few country clusters.
 - **Association, not causation:** the analysis shows correlations only, and many indicators move together.
 - **Within-country change is small:** GDP per Capita barely moves over 2000–2023 in any country, which leaves little time variation to explain.
-- **Model design:** with `Country` as a feature, the high R² mostly reflects country differences. A random split also lets the same country-years' neighbours appear in train and test.
+- **Model design:** with `Country` as a feature, the high R² mostly reflects differences between countries. A random split also puts years from the same country in both train and test sets, which makes the test easier than predicting future years or a new country.
 - **Capping:** literacy and gender equality values above their maximum were capped rather than investigated at source.
 
 ---
