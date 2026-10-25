@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" alt="Capstone logo" src="https://github.com/user-attachments/assets/0a6dc150-83dd-4f55-bf09-21e6de8307b9" />
+  <img width="2400" height="800" alt="image" src="https://github.com/user-attachments/assets/7c46b034-d5fc-4465-8242-7a235fd32c78" />
 </p>
 # Capstone - Global Economic Indicators Analytics 🌍
 
