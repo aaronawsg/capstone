@@ -231,8 +231,7 @@ print(f"Healthcare spend vs GDP per Capita: r = {r:.2f}")
 2. **Do not rely on workforce participation alone.** China matches the USA on participation with about one-sixth of the income, so pair jobs policy with productivity and skills.
 3. **Do not justify renewable energy targets on GDP per Capita grounds.** The data shows no consistent link, so decide on environmental and energy-security grounds.
 4. **Use HDI and poverty rate together when benchmarking development.** HDI largely mirrors income, while poverty rate adds information (China versus India).
-5. **Prioritise India as the largest gap.** It trails every peer on income, literacy, healthcare spend and labor participation, so it is the clearest case for a focused development plan.
-6. **Be cautious using the regression for decisions.** Its accuracy mostly reflects which country a row belongs to, not the effect of the levers.
+5. **Be cautious using the regression for decisions.** Its accuracy mostly reflects which country a row belongs to, not the effect of the levers.
 
 ---
 
