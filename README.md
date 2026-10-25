@@ -1,5 +1,6 @@
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/0a6dc150-83dd-4f55-bf09-21e6de8307b9" />
-
+<p align="center">
+  <img width="50%" alt="Capstone logo" src="https://github.com/user-attachments/assets/0a6dc150-83dd-4f55-bf09-21e6de8307b9" />
+</p>
 # Capstone - Global Economic Indicators Analytics 🌍
 
 ##### Date: 25 Oct 2026
