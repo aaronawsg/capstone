@@ -5,7 +5,7 @@ import numpy as np
 # Load the saved sales regression model
 @st.cache_resource
 def load_model():
-    return joblib.load('economics_regression.pkl')
+    return joblib.load('economics.pkl')
 
 model = load_model()
 
