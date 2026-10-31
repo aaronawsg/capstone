@@ -2,6 +2,7 @@ import os
 import streamlit as st
 import joblib
 import numpy as np
+import pandas as pd
 
 # Load the saved sales regression model
 @st.cache_resource
