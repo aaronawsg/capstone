@@ -16,9 +16,9 @@ st.title("🤖 Economics Analysis ML Predictor")
 
 
 # Input fields
-val1 = st.text_input("Literacy Rate (%)", value=0.0)
-val2 = st.text_input("Education Expenditure as % of GDP", value=0.0)
-val3 = st.text_input("Healthcare Expenditure per Capita (USD)", value=0.0)
+val1 = st.number_input("Literacy Rate (%)", value=0.0)
+val2 = st.number_input("Education Expenditure as % of GDP", value=0.0)
+val3 = st.number_input("Healthcare Expenditure per Capita (USD)", value=0.0)
 val4 = st.number_input("Doctor-to-Patient Ratio", value=0.0)
 val5 = st.number_input("Labor Force Participation Rate (%)", value=0.0)
 val6 = st.number_input("Unemployment Rate (%)", value=0.0)
