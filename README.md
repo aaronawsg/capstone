@@ -97,7 +97,6 @@ Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries t
 | `economics.pkl` | The trained regression model (a scikit-learn pipeline saved with `joblib`), loaded by `app.py` |
 | `requirements.txt` | Python packages Streamlit needs to run the app (`streamlit`, `scikit-learn==1.6.1`, `pandas`, `numpy`) |
 
-> The dataset files `Global Economic Data.csv` (raw) and `Global_Economic_Data_Cleaned.csv` (notebook output) are **not stored in this repository**. The notebook reads and writes them in Google Drive (see [How to Run](#how-to-run)).
 
 ---
 
