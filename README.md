@@ -180,6 +180,18 @@ Each indicator is compared with GDP per Capita in two ways:
 The very high R² is probably driven mostly by the `Country` terms, since GDP per Capita differs far more between countries than within them (see the within-country correlations above).
 
 ---
+## Predictive analytics (Streamlit app)
+
+The predictive model from the notebook is available as an interactive Streamlit app:
+**https://capstone-87dqurxkkkxgwthqhfraad.streamlit.app/**
+
+- **Model:** linear regression predicting GDP per capita (USD) from eight indicators plus country (one-hot encoded, Australia as the reference country). Numeric inputs are standardised. HDI is left out because it is partly built from income.
+- **Evaluation:** random 80/20 train/test split, stratified by country (115 training rows, 29 test rows). Test R² 0.997, test RMSE about USD 1,237.
+- **In the app:** choose a country, enter the indicator values, and the app returns the predicted GDP per capita in USD.
+- **Read with care:** a high R² is not proof of cause. Each country sits in its own income band, so country identity explains much of the fit.
+
+---
+
 
 ## Power BI Dashboard
 
