@@ -30,8 +30,7 @@ val5 = st.number_input("Labor Force Participation Rate (%)", value=0.0)
 val6 = st.number_input("Unemployment Rate (%)", value=0.0)
 val7 = st.number_input("Renewable Energy Share (%)", value=0.0)
 val8 = st.number_input("Poverty Rate (%)", value=0.0)
-val9 = st.text_input("Country", value="Australia")
-#val9 = st.selectbox("Choose a country", sorted(df["Country"].unique()))
+#val9 = st.text_input("Country", value="Australia")
 val9 = st.selectbox("Choose a country", COUNTRIES)
 
 if st.button("Predict"):
