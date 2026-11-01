@@ -25,6 +25,7 @@ val5 = st.number_input("Labor Force Participation Rate (%)", value=0.0)
 val6 = st.number_input("Unemployment Rate (%)", value=0.0)
 val7 = st.number_input("Renewable Energy Share (%)", value=0.0)
 val8 = st.number_input("Poverty Rate (%)", value=0.0)
+val9 = st.text_input("Country", value="Australia")
 
 if st.button("Predict"):
     # 1. Arrange inputs into a dictionary mapping to your exact original dataset column names
@@ -36,7 +37,8 @@ if st.button("Predict"):
         "Labor Force Participation Rate (%)": [val5],
         "Unemployment Rate (%)": [val6],
         "Renewable Energy Share (%)": [val7],
-        "Poverty Rate (%)": [val8]
+        "Poverty Rate (%)": [val8],
+        "Country": [val9]
     }
 
     # 2. Convert the dictionary into a pandas DataFrame
