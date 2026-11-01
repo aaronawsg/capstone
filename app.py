@@ -53,4 +53,5 @@ if st.button("Predict"):
     # 3. Pass the DataFrame to the model instead of the numpy array
     prediction = model.predict(input_df)
     
-    st.success(f"Prediction: {prediction[0]} GDP per capita (in USD)")
+    #st.success(f"Prediction: {prediction[0]} GDP per capita (in USD)")
+    st.success(f"Predicted GDP per capita: USD {prediction[0]:,.0f}")
