@@ -4,6 +4,8 @@ import joblib
 import numpy as np
 import pandas as pd
 
+df = pd.read_csv("Global_Economic_Data_Cleaned.csv")
+
 # Load the saved sales regression model
 @st.cache_resource
 def load_model():
@@ -25,7 +27,8 @@ val5 = st.number_input("Labor Force Participation Rate (%)", value=0.0)
 val6 = st.number_input("Unemployment Rate (%)", value=0.0)
 val7 = st.number_input("Renewable Energy Share (%)", value=0.0)
 val8 = st.number_input("Poverty Rate (%)", value=0.0)
-val9 = st.text_input("Country", value="Australia")
+#val9 = st.text_input("Country", value="Australia")
+val9 = st.selectbox("Choose a country", sorted(df["Country"].unique()))
 
 if st.button("Predict"):
     # 1. Arrange inputs into a dictionary mapping to your exact original dataset column names
