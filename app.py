@@ -4,7 +4,10 @@ import joblib
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("Global_Economic_Data_Cleaned.csv")
+#df = pd.read_csv("Global_Economic_Data_Cleaned.csv")
+COUNTRIES = ["Australia", "Canada", "China", "India", "Russia", "USA"]
+
+
 
 # Load the saved sales regression model
 @st.cache_resource
@@ -29,6 +32,7 @@ val7 = st.number_input("Renewable Energy Share (%)", value=0.0)
 val8 = st.number_input("Poverty Rate (%)", value=0.0)
 val9 = st.text_input("Country", value="Australia")
 #val9 = st.selectbox("Choose a country", sorted(df["Country"].unique()))
+val9 = st.selectbox("Choose a country", COUNTRIES)
 
 if st.button("Predict"):
     # 1. Arrange inputs into a dictionary mapping to your exact original dataset column names
