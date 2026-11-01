@@ -22,14 +22,14 @@ st.title("🤖 Economics Analysis ML Predictor")
 
 
 # Input fields
-val1 = st.number_input("Literacy Rate (%)", value=0.0)
-val2 = st.number_input("Education Expenditure as % of GDP", value=0.0)
-val3 = st.number_input("Healthcare Expenditure per Capita (USD)", value=0.0)
-val4 = st.number_input("Doctor-to-Patient Ratio", value=0.0)
-val5 = st.number_input("Labor Force Participation Rate (%)", value=0.0)
-val6 = st.number_input("Unemployment Rate (%)", value=0.0)
-val7 = st.number_input("Renewable Energy Share (%)", value=0.0)
-val8 = st.number_input("Poverty Rate (%)", value=0.0)
+val1 = st.number_input("Literacy Rate (%)", value=94.35)
+val2 = st.number_input("Education Expenditure as % of GDP", value=4.94)
+val3 = st.number_input("Healthcare Expenditure per Capita (USD)", value=5434.0)
+val4 = st.number_input("Doctor-to-Patient Ratio", value=3.53)
+val5 = st.number_input("Labor Force Participation Rate (%)", value=69.23)
+val6 = st.number_input("Unemployment Rate (%)", value=4.75)
+val7 = st.number_input("Renewable Energy Share (%)", value=23.0)
+val8 = st.number_input("Poverty Rate (%)", value=9.99)
 #val9 = st.text_input("Country", value="Australia")
 val9 = st.selectbox("Choose a country", COUNTRIES)
 
