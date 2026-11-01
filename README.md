@@ -91,6 +91,8 @@ Examine how HDI and Poverty Rate (%) relate to GDP per Capita across countries t
 | `PBI dashboard 2 of 2.png` | Screenshot of dashboard page 2: labor participation, renewable energy and HDI |
 | `Capstone_Story_Deck.pdf` | The presentation (13 slides), "Why are some countries richer than others?": question, data, findings by objective, limits and next steps |
 | `Data Dictionary.pdf` | 2-page data dictionary: business context and a description of every column in the dataset |
+| `Global Economic Data.csv` | The raw dataset: 144 rows (6 countries x 24 years) and 36 columns |
+| `Global_Economic_Data_Cleaned.csv` | Output of the notebook's cleaning steps: 144 rows and 39 columns (adds `Literacy Rate Capped Flag`, `Gender Equality Capped Flag` and `GDPpc Implied (USD)`) |
 | `app.py` | Streamlit app: takes the eight indicators and a country, and shows the predicted GDP per capita |
 | `economics.pkl` | The trained regression model (a scikit-learn pipeline saved with `joblib`), loaded by `app.py` |
 | `requirements.txt` | Python packages Streamlit needs to run the app (`streamlit`, `scikit-learn==1.6.1`, `pandas`, `numpy`) |
