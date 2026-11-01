@@ -54,4 +54,4 @@ if st.button("Predict"):
     prediction = model.predict(input_df)
     
     #st.success(f"Prediction: {prediction[0]} GDP per capita (in USD)")
-    st.success(f"Predicted GDP per capita: USD${prediction[0]:,.0f}")
+    st.success(f"Predicted GDP per capita: USD$ {prediction[0]:,.0f}")
